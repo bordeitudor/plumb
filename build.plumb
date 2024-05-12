@@ -1,0 +1,7 @@
+target "main" {
+	flags = "-std=c++17 -Wall -Wextra -pedantic",
+	input = [
+		"./src/plumb.cpp"
+	]
+	output = #target_name
+}

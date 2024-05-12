@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tudor\\Documents\\Programming\\plumb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E12B4CF-E782-4129-B36F-8B81A0B0DA66}|plumb.vcxproj|C:\\Users\\Tudor\\Documents\\Programming\\plumb\\src\\lexer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1E12B4CF-E782-4129-B36F-8B81A0B0DA66}|plumb.vcxproj|solutionrelative:src\\lexer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E12B4CF-E782-4129-B36F-8B81A0B0DA66}|plumb.vcxproj|C:\\Users\\Tudor\\Documents\\Programming\\plumb\\build.plumb||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1E12B4CF-E782-4129-B36F-8B81A0B0DA66}|plumb.vcxproj|solutionrelative:build.plumb||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E12B4CF-E782-4129-B36F-8B81A0B0DA66}|plumb.vcxproj|C:\\Users\\Tudor\\Documents\\Programming\\plumb\\src\\plumb.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1E12B4CF-E782-4129-B36F-8B81A0B0DA66}|plumb.vcxproj|solutionrelative:src\\plumb.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E12B4CF-E782-4129-B36F-8B81A0B0DA66}|plumb.vcxproj|C:\\Users\\Tudor\\Documents\\Programming\\plumb\\src\\file.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1E12B4CF-E782-4129-B36F-8B81A0B0DA66}|plumb.vcxproj|solutionrelative:src\\file.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E12B4CF-E782-4129-B36F-8B81A0B0DA66}|plumb.vcxproj|C:\\Users\\Tudor\\Documents\\Programming\\plumb\\src\\lexer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1E12B4CF-E782-4129-B36F-8B81A0B0DA66}|plumb.vcxproj|solutionrelative:src\\lexer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 265,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "build.plumb",
+              "DocumentMoniker": "C:\\Users\\Tudor\\Documents\\Programming\\plumb\\build.plumb",
+              "RelativeDocumentMoniker": "build.plumb",
+              "ToolTip": "C:\\Users\\Tudor\\Documents\\Programming\\plumb\\build.plumb",
+              "RelativeToolTip": "build.plumb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-12T16:22:08.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lexer.cpp",
+              "DocumentMoniker": "C:\\Users\\Tudor\\Documents\\Programming\\plumb\\src\\lexer.cpp",
+              "RelativeDocumentMoniker": "src\\lexer.cpp",
+              "ToolTip": "C:\\Users\\Tudor\\Documents\\Programming\\plumb\\src\\lexer.cpp",
+              "RelativeToolTip": "src\\lexer.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-12T16:00:54.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "plumb.cpp",
+              "DocumentMoniker": "C:\\Users\\Tudor\\Documents\\Programming\\plumb\\src\\plumb.cpp",
+              "RelativeDocumentMoniker": "src\\plumb.cpp",
+              "ToolTip": "C:\\Users\\Tudor\\Documents\\Programming\\plumb\\src\\plumb.cpp",
+              "RelativeToolTip": "src\\plumb.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-12T15:45:22.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 335,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "lexer.h",
+              "DocumentMoniker": "C:\\Users\\Tudor\\Documents\\Programming\\plumb\\src\\lexer.h",
+              "RelativeDocumentMoniker": "src\\lexer.h",
+              "ToolTip": "C:\\Users\\Tudor\\Documents\\Programming\\plumb\\src\\lexer.h",
+              "RelativeToolTip": "src\\lexer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-12T15:46:01.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "file.cpp",
+              "DocumentMoniker": "C:\\Users\\Tudor\\Documents\\Programming\\plumb\\src\\file.cpp",
+              "RelativeDocumentMoniker": "src\\file.cpp",
+              "ToolTip": "C:\\Users\\Tudor\\Documents\\Programming\\plumb\\src\\file.cpp",
+              "RelativeToolTip": "src\\file.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-12T15:56:10.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
